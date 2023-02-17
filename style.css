@@ -61,7 +61,8 @@ body{
     content: '';
     width: 8px;
     height: 80px;
-    background-color: rgb(14, 92, 236);
+    /* background-color: rgb(14, 92, 236); */
+    background-color: rgb(123, 123, 27);
     border-radius: 20px;
     z-index: 20;
 }
